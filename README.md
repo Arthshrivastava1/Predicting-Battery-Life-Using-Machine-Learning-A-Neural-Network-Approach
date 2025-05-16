@@ -1,0 +1,2 @@
+# Predicting-Battery-Life-Using-Machine-Learning-A-Neural-Network-Approach
+This project explores the application of neural networks to accurately predict the remaining useful life (RUL) or state of health (SoH) of batteries based on time-series data. By leveraging ML techniques, particularly deep learning models, we aim to develop a robust predictive system that can be used in electric vehicles (EVs), IoT devices
